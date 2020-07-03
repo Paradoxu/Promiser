@@ -1,0 +1,25 @@
+{
+	"name": "@paradoxu/promiser",
+	"version": "0.0.1",
+	"description": "A wrapper to make your promises prettier",
+	"main": "dist/index.js",
+	"types": "dist/index.d.ts",
+	"scripts": {
+		"prepublish": "tsc"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Paradoxu/Promiser.git"
+	},
+	"keywords": [ "javascript", "js", "promises", "typescript" ],
+	"author": "Leo Letto",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Paradoxu/Promiser/issues"
+	},
+	"homepage": "https://github.com/Paradoxu/Promiser#readme",
+	"devDependencies": {
+		"ts-node-dev": "^1.0.0-pre.50",
+		"typescript": "^3.9.6"
+	}
+}
